@@ -4,16 +4,22 @@ let age = 'bgb24';
 let valueInNumber = Number(age);
 // console.log(typeof valueInNumber);
 // console.log(valueInNumber);
-// 33 =>33;  
+// 33 =>33;
 // ""33abs"=>NaN
 // true=>1;false=>0;
 
 let isloggedIn = 1;
 let boolenanIsloggedIn = Boolean(isloggedIn);
-console.log(boolenanIsloggedIn);
-console.log(typeof boolenanIsloggedIn);
+// console.log(boolenanIsloggedIn);
+// console.log(typeof boolenanIsloggedIn);
 
 let SomeNumber = 33;
 let StringNumber = String(SomeNumber);
-console.log(StringNumber);
-console.log(typeof StringNumber);
+// console.log(StringNumber);
+// console.log(typeof StringNumber);
+//  *******************************************  Operations   *************************************************************************
+let value = 3;
+let negvalue = -value;
+//console.log(negvalue);
+
+
