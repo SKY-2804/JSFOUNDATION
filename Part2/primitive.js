@@ -11,3 +11,4 @@ let firstname=null;
 let lastname=undefined
 console.log(firstname);
 console.log(lastname);
+
